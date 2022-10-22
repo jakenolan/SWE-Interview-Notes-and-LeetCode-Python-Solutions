@@ -141,7 +141,7 @@ Time Complexity:
 
 <br />
 
-*Either a min or max heap where the min or max value is the root of the tree respectively. For min trees all children will be greater. For max heap all children will be smaller. These are also always complete trees where each level is completely full except for potentially the last level. Usually layed out as an array with 0 index empty. The left child index is found with 2*i and the right child is found with 2*i + 1.*
+*Either a min or max heap where the min or max value is the root of the tree respectively. For min trees all children will be greater. For max heap all children will be smaller. These are also always complete trees where each level is completely full except for potentially the last level. Usually laid out as an array with 0 index empty. The left child index is found with 2*i and the right child is found with 2*i + 1.*
 
 <br />
 
@@ -159,7 +159,7 @@ Time Complexity:
 
 <br />
 
-*Graphs are made up of nodes with edges that connect that node to its neighbors. These can be depicted as an adjacentcy list where each node has a coresponding list of its neighbors.*
+*Graphs are made up of nodes with edges that connect that node to its neighbors. These can be depicted as an adjacency list where each node has a corresponding list of its neighbors.*
 
 <br />
 
